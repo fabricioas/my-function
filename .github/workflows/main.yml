@@ -31,4 +31,3 @@ jobs:
           aws_region: sa-east-1
           function_name: my-function
           zip_file: bundle.zip
-O
